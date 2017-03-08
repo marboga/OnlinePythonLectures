@@ -21,6 +21,31 @@
 
 ### Questions about this before we move on?
 
+### Inheritance, Encapsulation, Polymorphism
+
+#### Inheritance
+In Python:
+- Methods of the parent class are automatically made accessible to child classes.
+- Attributes are only inherited if the parent class' \__init__ method is explicitly invoked with the _super_ function.
+
+```python
+class Coder(Person):
+	def __init__(self, languages):
+		super(Coder, self).__init__(name)
+	#	self.languages = languages
+
+	# def code(self, language):
+	# 	if language in self.languages:
+	# 		print "coding in ", language
+	# 	else:
+	# 		print "{} doesn't know {}!".format(self.name, language)
+	# 	return self
+```
+
+#### Encapsulation
+
+#### Polymorphism
+
 ### Multiple Inheritance
 
 ```
