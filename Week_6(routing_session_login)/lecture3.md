@@ -16,7 +16,11 @@
 ### Example (walk through first few)
 Level 1
 1. Find all baseball _leagues_
-2. Find all womens' _leagues_
+
+  League.objects.filter(name\__contains="baseball")
+
 
 Level 2
 1. Find all _teams_ in the Atlantic Soccer Conference
+
+  Team.objects.filter(league\__name="Atlantic Soccer Conference")

@@ -3,7 +3,6 @@
 - Tuesday: More OOP / What is MVC / Why Django?
 - Wednesday: Django Installation code-along
 - Thursday: Django basics: URL routing and templates
-- Friday: Code Review of The Wall and the early Django assignments
 
 
 ### Django routing
