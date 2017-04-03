@@ -21,7 +21,10 @@
 
 ### Questions about this before we move on?
 
-### Inheritance, Encapsulation, Polymorphism
+### Encapsulation
+### Abstraction
+### Inheritance
+### Polymorphism    
 
 #### Inheritance
 In Python:
@@ -48,7 +51,7 @@ class Coder(Person):
 
 ### Multiple Inheritance
 
-```
+```python
 class Vertebrate(object):
 	def __init__(self):
 		self.has_backbone = True
