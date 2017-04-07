@@ -5,7 +5,6 @@
 - Thursday: Django basics: URL routing and templates
 - Friday: Code Review of The Wall and the early Django assignments
 
-
 # Installing Django
 
 ### Virtual Environment
