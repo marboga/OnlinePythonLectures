@@ -4,7 +4,7 @@
 - Tuesday (that's today!): More OOP / What is MVC / Why Django?
 - Wednesday: Django Installation code-along
 - Thursday: Django basics: URL routing and templates
-- Friday: Code Review of The Wall and the early Django assignments
+- Friday: Code Review of the early Django assignments
 
 ### We've learned the syntax for Python's OOP
 
