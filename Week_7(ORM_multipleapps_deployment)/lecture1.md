@@ -1,8 +1,8 @@
 #Python - Django!
 ####Key Assignments
-- Login and Registration (Monday)
-- Multiple Apps (Tuesday)
-- Belt Reviewer (Thursday)
+- Login and Registration (last Friday)
+- Dojo Secret (Monday)
+- Belt Reviewer (Wednesday)
 - Belt Reviewer Deployed (Friday)
 
 ### Login and Registration
