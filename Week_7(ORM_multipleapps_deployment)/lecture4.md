@@ -1,5 +1,5 @@
-#Python - Django!
-####Key Assignments
+# Python - Django!
+#### Key Assignments
 - Login and Registration (last Friday)
 - Dojo Secret (Monday)
 - Belt Reviewer (Wednesday)
