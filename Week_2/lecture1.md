@@ -3,17 +3,15 @@
 #### Where Are We?
 - What assignments are you working on?
 
-- Upload your weekly key assignment! Tomorrow is Code Review Day! (Names)
-
 - We've learned Python
   - Those fundamentals are going to come in handy!
 - Now where?
   - Let's build some stuff!
 
 #### This Week's Key Assignments
+- Dojo Survey
 - Ninja Gold
 - Registration Form
-- Disappearing Ninja
 
 
 #### The Flask Mini-Framework
@@ -43,7 +41,7 @@
 Client-side views  
   - Client-side meaning HTML we are going to deliver to the user
   - Jinja2 templating is built into Flask when we install it.
-  - All we have to do is set up a templates folder in our project!
+  - All we have to do is set up a _templates_ folder in our project!
 
 ##### More on Templating
 Jinja2 Is Our Engine, We Are The Driver
